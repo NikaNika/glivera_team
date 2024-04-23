@@ -145,6 +145,13 @@
 				gap: 3.75rem;
 				padding: 1.625rem 1.25rem 7.5rem 2.5rem;
 				width: 25.875rem;
+
+				.navbar_nav {
+					margin-top: 0;
+					.navbar_nav_item {
+						font-size: 2.25rem;
+					}
+				}
 			}
 		}
 	}
